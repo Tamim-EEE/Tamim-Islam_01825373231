@@ -52,9 +52,18 @@ Tamim-Islam_01825373231/
 ### Setup
 
 1. Clone or download this repository
+
+```bash
+# Clone command:
+git clone https://github.com/Tamim-EEE/Tamim-Islam_01825373231.git
+```
+
 2. Create a virtual environment (recommended):
 
 ```bash
+# Navigate to the Tamim-Islam_01825373231 directory:
+cd Tamim-Islam_01825373231
+
 # Create virtual environment:
 python -m venv venv
 
