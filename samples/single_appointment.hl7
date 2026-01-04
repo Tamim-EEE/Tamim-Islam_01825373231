@@ -1,0 +1,4 @@
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104130000||SIU^S12|MSG004|P|2.3
+SCH||123456||||General Consultation||||^ ^60^20250502130000^20250502140000||||||| ||||| |||||Scheduled
+PID|1||P12345||Doe^John||19850210|M|||123 Main St^^Anytown^CA^90210||(555)123-4567|||M||123-45-6789
+PV1|1|O|Clinic A^Room 203||| ||D67890^Smith^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250502130000

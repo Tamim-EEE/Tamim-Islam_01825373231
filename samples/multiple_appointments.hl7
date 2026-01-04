@@ -1,0 +1,8 @@
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104130000||SIU^S12|MSG003A|P|2.3
+SCH||123456||||General Consultation||||^ ^60^20250502130000^20250502140000||||||| ||||| |||||Scheduled
+PID|1||P12345||Doe^John||19850210|M
+PV1|1|O|Clinic A^Room 203||| ||D67890^Smith^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250502130000
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104130100||SIU^S12|MSG003B|P|2.3
+SCH||789012||||Follow-up Consultation||||^ ^30^20250503100000^20250503103000||||||| ||||| |||||Scheduled
+PID|1||P67890||Smith^Jane||19900315|F
+PV1|1|O|Clinic B^Room 101||| ||D34567^Johnson^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250503100000

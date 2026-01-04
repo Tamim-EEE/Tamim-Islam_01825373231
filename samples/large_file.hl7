@@ -1,0 +1,499 @@
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104130000||SIU^S12|MSG001|P|2.3
+SCH||100001||||General Consultation||||^ ^60^20250502130000^20250502140000||||||| ||||| |||||Scheduled
+PID|1||P10001||Doe^John||19850210|M|||123 Main St^^Anytown^CA^90210||(555)123-4567|||M||123-45-6789
+PV1|1|O|Clinic A^Room 203||| ||D67890^Smith^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250502130000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104130100||SIU^S12|MSG002|P|2.3
+SCH||100002||||Follow-up Consultation||||^ ^30^20250503100000^20250503103000||||||| ||||| |||||Scheduled
+PID|1||P10002||Smith^Jane||19900315|F|||456 Oak St^^Anytown^CA^90210||(555)234-5678|||F||234-56-7890
+PV1|1|O|Clinic B^Room 101||| ||D34567^Johnson^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250503100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104130200||SIU^S12|MSG003|P|2.3
+SCH||100003||||Cardiology Consultation||||^ ^45^20250504140000^20250504144500||||||| ||||| |||||Scheduled
+PID|1||P10003||Brown^Bob||19751220|M|||789 Pine St^^Anytown^CA^90210||(555)345-6789|||M||345-67-8901
+PV1|1|O|Clinic C^Room 305||| ||D45678^Williams^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250504140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104130300||SIU^S12|MSG004|P|2.3
+SCH||100004||||Dermatology Consultation||||^ ^30^20250505110000^20250505113000||||||| ||||| |||||Scheduled
+PID|1||P10004||Davis^Alice||19880805|F|||321 Elm St^^Anytown^CA^90210||(555)456-7890|||F||456-78-9012
+PV1|1|O|Clinic D^Room 102||| ||D56789^Miller^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250505110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104130400||SIU^S12|MSG005|P|2.3
+SCH||100005||||Orthopedic Consultation||||^ ^60^20250506150000^20250506160000||||||| ||||| |||||Scheduled
+PID|1||P10005||Wilson^Charlie||19650515|M|||654 Maple St^^Anytown^CA^90210||(555)567-8901|||M||567-89-0123
+PV1|1|O|Clinic E^Room 401||| ||D67890^Garcia^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250506150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104130500||SIU^S12|MSG006|P|2.3
+SCH||100006||||Neurology Consultation||||^ ^45^20250507100000^20250507104500||||||| ||||| |||||Scheduled
+PID|1||P10006||Moore^Diana||19910530|F|||987 Cedar St^^Anytown^CA^90210||(555)678-9012|||F||678-90-1234
+PV1|1|O|Clinic F^Room 205||| ||D78901^Rodriguez^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250507100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104130600||SIU^S12|MSG007|P|2.3
+SCH||100007||||Psychiatry Consultation||||^ ^60^20250508130000^20250508140000||||||| ||||| |||||Scheduled
+PID|1||P10007||Taylor^Edward||19700325|M|||147 Birch St^^Anytown^CA^90210||(555)789-0123|||M||789-01-2345
+PV1|1|O|Clinic G^Room 110||| ||D89012^Martinez^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250508130000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104130700||SIU^S12|MSG008|P|2.3
+SCH||100008||||Ophthalmology Consultation||||^ ^30^20250509140000^20250509143000||||||| ||||| |||||Scheduled
+PID|1||P10008||Anderson^Fiona||19861210|F|||258 Spruce St^^Anytown^CA^90210||(555)890-1234|||F||890-12-3456
+PV1|1|O|Clinic H^Room 302||| ||D90123^Lopez^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250509140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104130800||SIU^S12|MSG009|P|2.3
+SCH||100009||||ENT Consultation||||^ ^45^20250510110000^20250510114500||||||| ||||| |||||Scheduled
+PID|1||P10009||Thomas^George||19680818|M|||369 Willow St^^Anytown^CA^90210||(555)901-2345|||M||901-23-4567
+PV1|1|O|Clinic I^Room 203||| ||D01234^Gonzalez^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250510110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104130900||SIU^S12|MSG010|P|2.3
+SCH||100010||||Urology Consultation||||^ ^60^20250511150000^20250511160000||||||| ||||| |||||Scheduled
+PID|1||P10010||Jackson^Helen||19920822|F|||741 Poplar St^^Anytown^CA^90210||(555)012-3456|||F||012-34-5678
+PV1|1|O|Clinic J^Room 405||| ||D12345^Wilson^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250511150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104131000||SIU^S12|MSG011|P|2.3
+SCH||100011||||Gynecology Consultation||||^ ^30^20250512100000^20250512103000||||||| ||||| |||||Scheduled
+PID|1||P10011||White^Ian||19741105|M|||852 Ash St^^Anytown^CA^90210||(555)123-4567|||M||123-45-6789
+PV1|1|O|Clinic K^Room 106||| ||D23456^Anderson^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250512100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104131100||SIU^S12|MSG012|P|2.3
+SCH||100012||||Pediatric Consultation||||^ ^45^20250513140000^20250513144500||||||| ||||| |||||Scheduled
+PID|1||P10012||Harris^Julia||19890514|F|||963 Hickory St^^Anytown^CA^90210||(555)234-5678|||F||234-56-7890
+PV1|1|O|Clinic L^Room 308||| ||D34567^Thomas^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250513140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104131200||SIU^S12|MSG013|P|2.3
+SCH||100013||||Dental Consultation||||^ ^60^20250514110000^20250514120000||||||| ||||| |||||Scheduled
+PID|1||P10013||Martin^Kevin||19660228|M|||174 Chestnut St^^Anytown^CA^90210||(555)345-6789|||M||345-67-8901
+PV1|1|O|Clinic M^Room 201||| ||D45678^Jackson^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250514110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104131300||SIU^S12|MSG014|P|2.3
+SCH||100014||||Physical Therapy||||^ ^30^20250515150000^20250515153000||||||| ||||| |||||Scheduled
+PID|1||P10014||Thompson^Lara||19931207|F|||285 Walnut St^^Anytown^CA^90210||(555)456-7890|||F||456-78-9012
+PV1|1|O|Clinic N^Room 407||| ||D56789^White^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250515150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104131400||SIU^S12|MSG015|P|2.3
+SCH||100015||||Nutrition Consultation||||^ ^45^20250516100000^20250516104500||||||| ||||| |||||Scheduled
+PID|1||P10015||Garcia^Mike||19770612|M|||396 Pine St^^Anytown^CA^90210||(555)567-8901|||M||567-89-0123
+PV1|1|O|Clinic O^Room 109||| ||D67890^Harris^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250516100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104131500||SIU^S12|MSG016|P|2.3
+SCH||100016||||Mental Health Consultation||||^ ^60^20250517130000^20250517140000||||||| ||||| |||||Scheduled
+PID|1||P10016||Martinez^Nancy||19840119|F|||507 Oak St^^Anytown^CA^90210||(555)678-9012|||F||678-90-1234
+PV1|1|O|Clinic P^Room 312||| ||D78901^Martin^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250517130000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104131600||SIU^S12|MSG017|P|2.3
+SCH||100017||||Podiatry Consultation||||^ ^30^20250518140000^20250518143000||||||| ||||| |||||Scheduled
+PID|1||P10017||Robinson^Oliver||19690903|M|||618 Elm St^^Anytown^CA^90210||(555)789-0123|||M||789-01-2345
+PV1|1|O|Clinic Q^Room 204||| ||D89012^Thompson^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250518140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104131700||SIU^S12|MSG018|P|2.3
+SCH||100018||||Rheumatology Consultation||||^ ^45^20250519110000^20250519114500||||||| ||||| |||||Scheduled
+PID|1||P10018||Clark^Paula||19940726|F|||729 Maple St^^Anytown^CA^90210||(555)890-1234|||F||890-12-3456
+PV1|1|O|Clinic R^Room 406||| ||D90123^Garcia^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250519110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104131800||SIU^S12|MSG019|P|2.3
+SCH||100019||||Endocrinology Consultation||||^ ^60^20250520150000^20250520160000||||||| ||||| |||||Scheduled
+PID|1||P10019||Rodriguez^Quincy||19710209|M|||840 Cedar St^^Anytown^CA^90210||(555)901-2345|||M||901-23-4567
+PV1|1|O|Clinic S^Room 108||| ||D01234^Martinez^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250520150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104131900||SIU^S12|MSG020|P|2.3
+SCH||100020||||Nephrology Consultation||||^ ^30^20250521100000^20250521103000||||||| ||||| |||||Scheduled
+PID|1||P10020||Lewis^Rachel||19870314|F|||951 Birch St^^Anytown^CA^90210||(555)012-3456|||F||012-34-5678
+PV1|1|O|Clinic T^Room 310||| ||D12345^Robinson^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250521100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104132000||SIU^S12|MSG021|P|2.3
+SCH||100021||||Hematology Consultation||||^ ^45^20250522140000^20250522144500||||||| ||||| |||||Scheduled
+PID|1||P10021||Lee^Steven||19650417|M|||162 Spruce St^^Anytown^CA^90210||(555)123-4567|||M||123-45-6789
+PV1|1|O|Clinic U^Room 202||| ||D23456^Clark^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250522140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104132100||SIU^S12|MSG022|P|2.3
+SCH||100022||||Infectious Disease Consultation||||^ ^60^20250523110000^20250523120000||||||| ||||| |||||Scheduled
+PID|1||P10022||Walker^Tina||19951108|F|||273 Willow St^^Anytown^CA^90210||(555)234-5678|||F||234-56-7890
+PV1|1|O|Clinic V^Room 408||| ||D34567^Rodriguez^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250523110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104132200||SIU^S12|MSG023|P|2.3
+SCH||100023||||Pulmonology Consultation||||^ ^30^20250524150000^20250524153000||||||| ||||| |||||Scheduled
+PID|1||P10023||Hall^Ulysses||19780723|M|||384 Poplar St^^Anytown^CA^90210||(555)345-6789|||M||345-67-8901
+PV1|1|O|Clinic W^Room 111||| ||D45678^Lewis^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250524150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104132300||SIU^S12|MSG024|P|2.3
+SCH||100024||||Gastroenterology Consultation||||^ ^45^20250525100000^20250525104500||||||| ||||| |||||Scheduled
+PID|1||P10024||Allen^Victoria||19891016|F|||495 Ash St^^Anytown^CA^90210||(555)456-7890|||F||456-78-9012
+PV1|1|O|Clinic X^Room 313||| ||D56789^Lee^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250525100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104132400||SIU^S12|MSG025|P|2.3
+SCH||100025||||Oncology Consultation||||^ ^60^20250526130000^20250526140000||||||| ||||| |||||Scheduled
+PID|1||P10025||Young^Walter||19630130|M|||606 Hickory St^^Anytown^CA^90210||(555)567-8901|||M||567-89-0123
+PV1|1|O|Clinic Y^Room 205||| ||D67890^Walker^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250526130000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104132500||SIU^S12|MSG026|P|2.3
+SCH||100026||||Radiology Consultation||||^ ^30^20250527140000^20250527143000||||||| ||||| |||||Scheduled
+PID|1||P10026||Hernandez^Xena||19960621|F|||717 Chestnut St^^Anytown^CA^90210||(555)678-9012|||F||678-90-1234
+PV1|1|O|Clinic Z^Room 407||| ||D78901^Hall^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250527140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104132600||SIU^S12|MSG027|P|2.3
+SCH||100027||||Emergency Medicine Consultation||||^ ^45^20250528110000^20250528114500||||||| ||||| |||||Scheduled
+PID|1||P10027||King^Yosef||19750406|M|||828 Walnut St^^Anytown^CA^90210||(555)789-0123|||M||789-01-2345
+PV1|1|O|Clinic AA^Room 109||| ||D89012^Allen^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250528110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104132700||SIU^S12|MSG028|P|2.3
+SCH||100028||||Family Medicine Consultation||||^ ^60^20250529150000^20250529160000||||||| ||||| |||||Scheduled
+PID|1||P10028||Wright^Zara||19880103|F|||939 Pine St^^Anytown^CA^90210||(555)890-1234|||F||890-12-3456
+PV1|1|O|Clinic BB^Room 311||| ||D90123^Young^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250529150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104132800||SIU^S12|MSG029|P|2.3
+SCH||100029||||Internal Medicine Consultation||||^ ^30^20250530100000^20250530103000||||||| ||||| |||||Scheduled
+PID|1||P10029||Lopez^Adam||19670614|M|||150 Oak St^^Anytown^CA^90210||(555)901-2345|||M||901-23-4567
+PV1|1|O|Clinic CC^Room 203||| ||D01234^Hernandez^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250530100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104132900||SIU^S12|MSG030|P|2.3
+SCH||100030||||Surgery Consultation||||^ ^45^20250531140000^20250531144500||||||| ||||| |||||Scheduled
+PID|1||P10030||Hill^Betty||19920127|F|||261 Elm St^^Anytown^CA^90210||(555)012-3456|||F||012-34-5678
+PV1|1|O|Clinic DD^Room 405||| ||D12345^King^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250531140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104133000||SIU^S12|MSG031|P|2.3
+SCH||100031||||General Consultation||||^ ^60^20250601110000^20250601120000||||||| ||||| |||||Scheduled
+PID|1||P10031||Green^Charles||19700908|M|||372 Maple St^^Anytown^CA^90210||(555)123-4567|||M||123-45-6789
+PV1|1|O|Clinic EE^Room 107||| ||D23456^Wright^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250601110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104133100||SIU^S12|MSG032|P|2.3
+SCH||100032||||Follow-up Consultation||||^ ^30^20250602150000^20250602153000||||||| ||||| |||||Scheduled
+PID|1||P10032||Adams^Diana||19850421|F|||483 Cedar St^^Anytown^CA^90210||(555)234-5678|||F||234-56-7890
+PV1|1|O|Clinic FF^Room 309||| ||D34567^Lopez^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250602150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104133200||SIU^S12|MSG033|P|2.3
+SCH||100033||||Cardiology Consultation||||^ ^45^20250603100000^20250603104500||||||| ||||| |||||Scheduled
+PID|1||P10033||Baker^Edward||19681113|M|||594 Birch St^^Anytown^CA^90210||(555)345-6789|||M||345-67-8901
+PV1|1|O|Clinic GG^Room 201||| ||D45678^Hill^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250603100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104133300||SIU^S12|MSG034|P|2.3
+SCH||100034||||Dermatology Consultation||||^ ^60^20250604130000^20250604140000||||||| ||||| |||||Scheduled
+PID|1||P10034||Nelson^Fiona||19930705|F|||705 Spruce St^^Anytown^CA^90210||(555)456-7890|||F||456-78-9012
+PV1|1|O|Clinic HH^Room 413||| ||D56789^Green^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250604130000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104133400||SIU^S12|MSG035|P|2.3
+SCH||100035||||Orthopedic Consultation||||^ ^30^20250605140000^20250605143000||||||| ||||| |||||Scheduled
+PID|1||P10035||Carter^George||19761227|M|||816 Willow St^^Anytown^CA^90210||(555)567-8901|||M||567-89-0123
+PV1|1|O|Clinic II^Room 105||| ||D67890^Adams^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250605140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104133500||SIU^S12|MSG036|P|2.3
+SCH||100036||||Neurology Consultation||||^ ^45^20250606110000^20250606114500||||||| ||||| |||||Scheduled
+PID|1||P10036||Mitchell^Helen||19890909|F|||927 Poplar St^^Anytown^CA^90210||(555)678-9012|||F||678-90-1234
+PV1|1|O|Clinic JJ^Room 317||| ||D78901^Baker^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250606110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104133600||SIU^S12|MSG037|P|2.3
+SCH||100037||||Psychiatry Consultation||||^ ^60^20250607150000^20250607160000||||||| ||||| |||||Scheduled
+PID|1||P10037||Perez^Ian||19640531|M|||138 Ash St^^Anytown^CA^90210||(555)789-0123|||M||789-01-2345
+PV1|1|O|Clinic KK^Room 209||| ||D89012^Nelson^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250607150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104133700||SIU^S12|MSG038|P|2.3
+SCH||100038||||Ophthalmology Consultation||||^ ^30^20250608100000^20250608103000||||||| ||||| |||||Scheduled
+PID|1||P10038||Roberts^Julia||19941212|F|||249 Hickory St^^Anytown^CA^90210||(555)890-1234|||F||890-12-3456
+PV1|1|O|Clinic LL^Room 401||| ||D90123^Carter^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250608100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104133800||SIU^S12|MSG039|P|2.3
+SCH||100039||||ENT Consultation||||^ ^45^20250609140000^20250609144500||||||| ||||| |||||Scheduled
+PID|1||P10039||Turner^Kevin||19720714|M|||360 Chestnut St^^Anytown^CA^90210||(555)901-2345|||M||901-23-4567
+PV1|1|O|Clinic MM^Room 113||| ||D01234^Mitchell^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250609140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104133900||SIU^S12|MSG040|P|2.3
+SCH||100040||||Urology Consultation||||^ ^60^20250610110000^20250610120000||||||| ||||| |||||Scheduled
+PID|1||P10040||Phillips^Lara||19870327|F|||471 Walnut St^^Anytown^CA^90210||(555)012-3456|||F||012-34-5678
+PV1|1|O|Clinic NN^Room 325||| ||D12345^Perez^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250610110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104134000||SIU^S12|MSG041|P|2.3
+SCH||100041||||Gynecology Consultation||||^ ^30^20250611150000^20250611153000||||||| ||||| |||||Scheduled
+PID|1||P10041||Campbell^Mike||19651019|M|||582 Pine St^^Anytown^CA^90210||(555)123-4567|||M||123-45-6789
+PV1|1|O|Clinic OO^Room 207||| ||D23456^Roberts^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250611150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104134100||SIU^S12|MSG042|P|2.3
+SCH||100042||||Pediatric Consultation||||^ ^45^20250612100000^20250612104500||||||| ||||| |||||Scheduled
+PID|1||P10042||Parker^Nancy||19950810|F|||693 Oak St^^Anytown^CA^90210||(555)234-5678|||F||234-56-7890
+PV1|1|O|Clinic PP^Room 419||| ||D34567^Turner^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250612100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104134200||SIU^S12|MSG043|P|2.3
+SCH||100043||||Dental Consultation||||^ ^60^20250613130000^20250613140000||||||| ||||| |||||Scheduled
+PID|1||P10043||Evans^Oliver||19780302|M|||804 Elm St^^Anytown^CA^90210||(555)345-6789|||M||345-67-8901
+PV1|1|O|Clinic QQ^Room 211||| ||D45678^Phillips^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250613130000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104134300||SIU^S12|MSG044|P|2.3
+SCH||100044||||Physical Therapy||||^ ^30^20250614140000^20250614143000||||||| ||||| |||||Scheduled
+PID|1||P10044||Edwards^Paula||19890623|F|||915 Maple St^^Anytown^CA^90210||(555)456-7890|||F||456-78-9012
+PV1|1|O|Clinic RR^Room 423||| ||D56789^Campbell^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250614140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104134400||SIU^S12|MSG045|P|2.3
+SCH||100045||||Nutrition Consultation||||^ ^45^20250615110000^20250615114500||||||| ||||| |||||Scheduled
+PID|1||P10045||Collins^Quincy||19660716|M|||126 Cedar St^^Anytown^CA^90210||(555)567-8901|||M||567-89-0123
+PV1|1|O|Clinic SS^Room 115||| ||D67890^Parker^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250615110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104134500||SIU^S12|MSG046|P|2.3
+SCH||100046||||Mental Health Consultation||||^ ^60^20250616150000^20250616160000||||||| ||||| |||||Scheduled
+PID|1||P10046||Stewart^Rachel||19920108|F|||237 Birch St^^Anytown^CA^90210||(555)678-9012|||F||678-90-1234
+PV1|1|O|Clinic TT^Room 327||| ||D78901^Evans^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250616150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104134600||SIU^S12|MSG047|P|2.3
+SCH||100047||||Podiatry Consultation||||^ ^30^20250617100000^20250617103000||||||| ||||| |||||Scheduled
+PID|1||P10047||Sanchez^Steven||19740429|M|||348 Spruce St^^Anytown^CA^90210||(555)789-0123|||M||789-01-2345
+PV1|1|O|Clinic UU^Room 219||| ||D89012^Edwards^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250617100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104134700||SIU^S12|MSG048|P|2.3
+SCH||100048||||Rheumatology Consultation||||^ ^45^20250618140000^20250618144500||||||| ||||| |||||Scheduled
+PID|1||P10048||Morris^Tina||19880711|F|||459 Willow St^^Anytown^CA^90210||(555)890-1234|||F||890-12-3456
+PV1|1|O|Clinic VV^Room 431||| ||D90123^Collins^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250618140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104134800||SIU^S12|MSG049|P|2.3
+SCH||100049||||Endocrinology Consultation||||^ ^60^20250619110000^20250619120000||||||| ||||| |||||Scheduled
+PID|1||P10049||Rogers^Ulysses||19620124|M|||570 Poplar St^^Anytown^CA^90210||(555)901-2345|||M||901-23-4567
+PV1|1|O|Clinic WW^Room 123||| ||D01234^Stewart^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250619110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104134900||SIU^S12|MSG050|P|2.3
+SCH||100050||||Nephrology Consultation||||^ ^30^20250620150000^20250620153000||||||| ||||| |||||Scheduled
+PID|1||P10050||Reed^Victoria||19930617|F|||681 Ash St^^Anytown^CA^90210||(555)012-3456|||F||012-34-5678
+PV1|1|O|Clinic XX^Room 335||| ||D12345^Sanchez^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250620150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104135000||SIU^S12|MSG051|P|2.3
+SCH||100051||||Hematology Consultation||||^ ^45^20250621100000^20250621104500||||||| ||||| |||||Scheduled
+PID|1||P10051||Cook^Walter||19750907|M|||792 Hickory St^^Anytown^CA^90210||(555)123-4567|||M||123-45-6789
+PV1|1|O|Clinic YY^Room 227||| ||D23456^Morris^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250621100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104135100||SIU^S12|MSG052|P|2.3
+SCH||100052||||Infectious Disease Consultation||||^ ^60^20250622130000^20250622140000||||||| ||||| |||||Scheduled
+PID|1||P10052||Morgan^Xena||19890228|F|||903 Chestnut St^^Anytown^CA^90210||(555)234-5678|||F||234-56-7890
+PV1|1|O|Clinic ZZ^Room 439||| ||D34567^Rogers^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250622130000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104135200||SIU^S12|MSG053|P|2.3
+SCH||100053||||Pulmonology Consultation||||^ ^30^20250623140000^20250623143000||||||| ||||| |||||Scheduled
+PID|1||P10053||Bell^Yosef||19670609|M|||114 Walnut St^^Anytown^CA^90210||(555)345-6789|||M||345-67-8901
+PV1|1|O|Clinic AAA^Room 131||| ||D45678^Reed^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250623140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104135300||SIU^S12|MSG054|P|2.3
+SCH||100054||||Gastroenterology Consultation||||^ ^45^20250624110000^20250624114500||||||| ||||| |||||Scheduled
+PID|1||P10054||Murphy^Zara||19940720|F|||225 Pine St^^Anytown^CA^90210||(555)456-7890|||F||456-78-9012
+PV1|1|O|Clinic BBB^Room 343||| ||D56789^Cook^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250624110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104135400||SIU^S12|MSG055|P|2.3
+SCH||100055||||Oncology Consultation||||^ ^60^20250625150000^20250625160000||||||| ||||| |||||Scheduled
+PID|1||P10055||Bailey^Adam||19701203|M|||336 Oak St^^Anytown^CA^90210||(555)567-8901|||M||567-89-0123
+PV1|1|O|Clinic CCC^Room 235||| ||D67890^Morgan^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250625150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104135500||SIU^S12|MSG056|P|2.3
+SCH||100056||||Radiology Consultation||||^ ^30^20250626100000^20250626103000||||||| ||||| |||||Scheduled
+PID|1||P10056||Rivera^Betty||19880516|F|||447 Elm St^^Anytown^CA^90210||(555)678-9012|||F||678-90-1234
+PV1|1|O|Clinic DDD^Room 447||| ||D78901^Bell^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250626100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104135600||SIU^S12|MSG057|P|2.3
+SCH||100057||||Emergency Medicine Consultation||||^ ^45^20250627140000^20250627144500||||||| ||||| |||||Scheduled
+PID|1||P10057||Cooper^Charles||19630927|M|||558 Maple St^^Anytown^CA^90210||(555)789-0123|||M||789-01-2345
+PV1|1|O|Clinic EEE^Room 139||| ||D89012^Murphy^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250627140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104135700||SIU^S12|MSG058|P|2.3
+SCH||100058||||Family Medicine Consultation||||^ ^60^20250628110000^20250628120000||||||| ||||| |||||Scheduled
+PID|1||P10058||Richardson^Diana||19951009|F|||669 Cedar St^^Anytown^CA^90210||(555)890-1234|||F||890-12-3456
+PV1|1|O|Clinic FFF^Room 351||| ||D90123^Bailey^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250628110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104135800||SIU^S12|MSG059|P|2.3
+SCH||100059||||Internal Medicine Consultation||||^ ^30^20250629150000^20250629153000||||||| ||||| |||||Scheduled
+PID|1||P10059||Cox^Edward||19770410|M|||780 Birch St^^Anytown^CA^90210||(555)901-2345|||M||901-23-4567
+PV1|1|O|Clinic GGG^Room 243||| ||D01234^Rivera^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250629150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104135900||SIU^S12|MSG060|P|2.3
+SCH||100060||||Surgery Consultation||||^ ^45^20250630100000^20250630104500||||||| ||||| |||||Scheduled
+PID|1||P10060||Howard^Fiona||19891122|F|||891 Spruce St^^Anytown^CA^90210||(555)012-3456|||F||012-34-5678
+PV1|1|O|Clinic HHH^Room 455||| ||D12345^Cooper^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250630100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104140000||SIU^S12|MSG061|P|2.3
+SCH||100061||||General Consultation||||^ ^60^20250701130000^20250701140000||||||| ||||| |||||Scheduled
+PID|1||P10061||Ward^George||19650605|M|||102 Willow St^^Anytown^CA^90210||(555)123-4567|||M||123-45-6789
+PV1|1|O|Clinic III^Room 147||| ||D23456^Richardson^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250701130000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104140100||SIU^S12|MSG062|P|2.3
+SCH||100062||||Follow-up Consultation||||^ ^30^20250702140000^20250702143000||||||| ||||| |||||Scheduled
+PID|1||P10062||Torres^Helen||19920614|F|||213 Poplar St^^Anytown^CA^90210||(555)234-5678|||F||234-56-7890
+PV1|1|O|Clinic JJJ^Room 359||| ||D34567^Cox^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250702140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104140200||SIU^S12|MSG063|P|2.3
+SCH||100063||||Cardiology Consultation||||^ ^45^20250703110000^20250703114500||||||| ||||| |||||Scheduled
+PID|1||P10063||Peterson^Ian||19780127|M|||324 Ash St^^Anytown^CA^90210||(555)345-6789|||M||345-67-8901
+PV1|1|O|Clinic KKK^Room 251||| ||D45678^Howard^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250703110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104140300||SIU^S12|MSG064|P|2.3
+SCH||100064||||Dermatology Consultation||||^ ^60^20250704150000^20250704160000||||||| ||||| |||||Scheduled
+PID|1||P10064||Gray^Julia||19840309|F|||435 Hickory St^^Anytown^CA^90210||(555)456-7890|||F||456-78-9012
+PV1|1|O|Clinic LLL^Room 463||| ||D56789^Ward^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250704150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104140400||SIU^S12|MSG065|P|2.3
+SCH||100065||||Orthopedic Consultation||||^ ^30^20250705100000^20250705103000||||||| ||||| |||||Scheduled
+PID|1||P10065||Ramirez^Kevin||19660821|M|||546 Chestnut St^^Anytown^CA^90210||(555)567-8901|||M||567-89-0123
+PV1|1|O|Clinic MMM^Room 155||| ||D67890^Torres^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250705100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104140500||SIU^S12|MSG066|P|2.3
+SCH||100066||||Neurology Consultation||||^ ^45^20250706140000^20250706144500||||||| ||||| |||||Scheduled
+PID|1||P10066||James^Lara||19931103|F|||657 Walnut St^^Anytown^CA^90210||(555)678-9012|||F||678-90-1234
+PV1|1|O|Clinic NNN^Room 367||| ||D78901^Peterson^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250706140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104140600||SIU^S12|MSG067|P|2.3
+SCH||100067||||Psychiatry Consultation||||^ ^60^20250707110000^20250707120000||||||| ||||| |||||Scheduled
+PID|1||P10067||Watson^Mike||19700514|M|||768 Pine St^^Anytown^CA^90210||(555)789-0123|||M||789-01-2345
+PV1|1|O|Clinic OOO^Room 259||| ||D89012^Gray^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250707110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104140700||SIU^S12|MSG068|P|2.3
+SCH||100068||||Ophthalmology Consultation||||^ ^30^20250708150000^20250708153000||||||| ||||| |||||Scheduled
+PID|1||P10068||Brooks^Nancy||19870626|F|||879 Oak St^^Anytown^CA^90210||(555)890-1234|||F||890-12-3456
+PV1|1|O|Clinic PPP^Room 471||| ||D90123^Ramirez^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250708150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104140800||SIU^S12|MSG069|P|2.3
+SCH||100069||||ENT Consultation||||^ ^45^20250709100000^20250709104500||||||| ||||| |||||Scheduled
+PID|1||P10069||Kelly^Oliver||19680308|M|||990 Elm St^^Anytown^CA^90210||(555)901-2345|||M||901-23-4567
+PV1|1|O|Clinic QQQ^Room 163||| ||D01234^James^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250709100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104140900||SIU^S12|MSG070|P|2.3
+SCH||100070||||Urology Consultation||||^ ^60^20250710140000^20250710150000||||||| ||||| |||||Scheduled
+PID|1||P10070||Sanders^Paula||19940219|F|||101 Maple St^^Anytown^CA^90210||(555)012-3456|||F||012-34-5678
+PV1|1|O|Clinic RRR^Room 375||| ||D12345^Watson^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250710140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104141000||SIU^S12|MSG071|P|2.3
+SCH||100071||||Gynecology Consultation||||^ ^30^20250711110000^20250711113000||||||| ||||| |||||Scheduled
+PID|1||P10071||Price^Quincy||19720701|M|||112 Cedar St^^Anytown^CA^90210||(555)123-4567|||M||123-45-6789
+PV1|1|O|Clinic SSS^Room 267||| ||D23456^Brooks^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250711110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104141100||SIU^S12|MSG072|P|2.3
+SCH||100072||||Pediatric Consultation||||^ ^45^20250712150000^20250712154500||||||| ||||| |||||Scheduled
+PID|1||P10072||Bennett^Rachel||19880913|F|||223 Birch St^^Anytown^CA^90210||(555)234-5678|||F||234-56-7890
+PV1|1|O|Clinic TTT^Room 479||| ||D34567^Kelly^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250712150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104141200||SIU^S12|MSG073|P|2.3
+SCH||100073||||Dental Consultation||||^ ^60^20250713100000^20250713110000||||||| ||||| |||||Scheduled
+PID|1||P10073||Wood^Steven||19640425|M|||334 Spruce St^^Anytown^CA^90210||(555)345-6789|||M||345-67-8901
+PV1|1|O|Clinic UUU^Room 171||| ||D45678^Sanders^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250713100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104141300||SIU^S12|MSG074|P|2.3
+SCH||100074||||Physical Therapy||||^ ^30^20250714140000^20250714143000||||||| ||||| |||||Scheduled
+PID|1||P10074||Barnes^Tina||19950506|F|||445 Willow St^^Anytown^CA^90210||(555)456-7890|||F||456-78-9012
+PV1|1|O|Clinic VVV^Room 383||| ||D56789^Price^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250714140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104141400||SIU^S12|MSG075|P|2.3
+SCH||100075||||Nutrition Consultation||||^ ^45^20250715110000^20250715114500||||||| ||||| |||||Scheduled
+PID|1||P10075||Ross^Ulysses||19761018|M|||556 Poplar St^^Anytown^CA^90210||(555)567-8901|||M||567-89-0123
+PV1|1|O|Clinic WWW^Room 275||| ||D67890^Bennett^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250715110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104141500||SIU^S12|MSG076|P|2.3
+SCH||100076||||Mental Health Consultation||||^ ^60^20250716150000^20250716160000||||||| ||||| |||||Scheduled
+PID|1||P10076||Henderson^Victoria||19890129|F|||667 Ash St^^Anytown^CA^90210||(555)678-9012|||F||678-90-1234
+PV1|1|O|Clinic XXX^Room 487||| ||D78901^Wood^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250716150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104141600||SIU^S12|MSG077|P|2.3
+SCH||100077||||Podiatry Consultation||||^ ^30^20250717100000^20250717103000||||||| ||||| |||||Scheduled
+PID|1||P10077||Coleman^Walter||19670111|M|||778 Hickory St^^Anytown^CA^90210||(555)789-0123|||M||789-01-2345
+PV1|1|O|Clinic YYY^Room 179||| ||D89012^Barnes^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250717100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104141700||SIU^S12|MSG078|P|2.3
+SCH||100078||||Rheumatology Consultation||||^ ^45^20250718140000^20250718144500||||||| ||||| |||||Scheduled
+PID|1||P10078||Jenkins^Xena||19900622|F|||889 Chestnut St^^Anytown^CA^90210||(555)890-1234|||F||890-12-3456
+PV1|1|O|Clinic ZZZ^Room 391||| ||D90123^Ross^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250718140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104141800||SIU^S12|MSG079|P|2.3
+SCH||100079||||Endocrinology Consultation||||^ ^60^20250719110000^20250719120000||||||| ||||| |||||Scheduled
+PID|1||P10079||Perry^Yosef||19730505|M|||990 Walnut St^^Anytown^CA^90210||(555)901-2345|||M||901-23-4567
+PV1|1|O|Clinic AAAA^Room 283||| ||D01234^Henderson^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250719110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104141900||SIU^S12|MSG080|P|2.3
+SCH||100080||||Nephrology Consultation||||^ ^30^20250720150000^20250720153000||||||| ||||| |||||Scheduled
+PID|1||P10080||Powell^Zara||19871114|F|||101 Pine St^^Anytown^CA^90210||(555)012-3456|||F||012-34-5678
+PV1|1|O|Clinic BBBB^Room 495||| ||D12345^Coleman^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250720150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104142000||SIU^S12|MSG081|P|2.3
+SCH||100081||||Hematology Consultation||||^ ^45^20250721100000^20250721104500||||||| ||||| |||||Scheduled
+PID|1||P10081||Long^Adam||19650827|M|||112 Oak St^^Anytown^CA^90210||(555)123-4567|||M||123-45-6789
+PV1|1|O|Clinic CCCC^Room 187||| ||D23456^Jenkins^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250721100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104142100||SIU^S12|MSG082|P|2.3
+SCH||100082||||Infectious Disease Consultation||||^ ^60^20250722140000^20250722150000||||||| ||||| |||||Scheduled
+PID|1||P10082||Patterson^Betty||19921607|F|||223 Elm St^^Anytown^CA^90210||(555)234-5678|||F||234-56-7890
+PV1|1|O|Clinic DDDD^Room 399||| ||D34567^Perry^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250722140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104142200||SIU^S12|MSG083|P|2.3
+SCH||100083||||Pulmonology Consultation||||^ ^30^20250723110000^20250723113000||||||| ||||| |||||Scheduled
+PID|1||P10083||Hughes^Charles||19771119|M|||334 Maple St^^Anytown^CA^90210||(555)345-6789|||M||345-67-8901
+PV1|1|O|Clinic EEEE^Room 291||| ||D45678^Powell^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250723110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104142300||SIU^S12|MSG084|P|2.3
+SCH||100084||||Gastroenterology Consultation||||^ ^45^20250724150000^20250724154500||||||| ||||| |||||Scheduled
+PID|1||P10084||Flores^Diana||19881201|F|||445 Cedar St^^Anytown^CA^90210||(555)456-7890|||F||456-78-9012
+PV1|1|O|Clinic FFFF^Room 403||| ||D56789^Long^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250724150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104142400||SIU^S12|MSG085|P|2.3
+SCH||100085||||Oncology Consultation||||^ ^60^20250725100000^20250725110000||||||| ||||| |||||Scheduled
+PID|1||P10085||Washington^Edward||19630313|M|||556 Birch St^^Anytown^CA^90210||(555)567-8901|||M||567-89-0123
+PV1|1|O|Clinic GGGG^Room 195||| ||D67890^Patterson^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250725100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104142500||SIU^S12|MSG086|P|2.3
+SCH||100086||||Radiology Consultation||||^ ^30^20250726140000^20250726143000||||||| ||||| |||||Scheduled
+PID|1||P10086||Butler^Fiona||19931725|F|||667 Spruce St^^Anytown^CA^90210||(555)678-9012|||F||678-90-1234
+PV1|1|O|Clinic HHHH^Room 407||| ||D78901^Hughes^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250726140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104142600||SIU^S12|MSG087|P|2.3
+SCH||100087||||Emergency Medicine Consultation||||^ ^45^20250727110000^20250727114500||||||| ||||| |||||Scheduled
+PID|1||P10087||Simmons^George||19750607|M|||778 Willow St^^Anytown^CA^90210||(555)789-0123|||M||789-01-2345
+PV1|1|O|Clinic IIII^Room 299||| ||D89012^Flores^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250727110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104142700||SIU^S12|MSG088|P|2.3
+SCH||100088||||Family Medicine Consultation||||^ ^60^20250728150000^20250728160000||||||| ||||| |||||Scheduled
+PID|1||P10088||Foster^Helen||19880718|F|||889 Poplar St^^Anytown^CA^90210||(555)890-1234|||F||890-12-3456
+PV1|1|O|Clinic JJJJ^Room 411||| ||D90123^Washington^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250728150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104142800||SIU^S12|MSG089|P|2.3
+SCH||100089||||Internal Medicine Consultation||||^ ^30^20250729100000^20250729103000||||||| ||||| |||||Scheduled
+PID|1||P10089||Gonzales^Ian||19670220|M|||990 Ash St^^Anytown^CA^90210||(555)901-2345|||M||901-23-4567
+PV1|1|O|Clinic KKKK^Room 203||| ||D01234^Butler^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250729100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104142900||SIU^S12|MSG090|P|2.3
+SCH||100090||||Surgery Consultation||||^ ^45^20250730140000^20250730144500||||||| ||||| |||||Scheduled
+PID|1||P10090||Bryant^Julia||19941211|F|||101 Hickory St^^Anytown^CA^90210||(555)012-3456|||F||012-34-5678
+PV1|1|O|Clinic LLLL^Room 415||| ||D12345^Simmons^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250730140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104143000||SIU^S12|MSG091|P|2.3
+SCH||100091||||General Consultation||||^ ^60^20250731110000^20250731120000||||||| ||||| |||||Scheduled
+PID|1||P10091||Alexander^Kevin||19720903|M|||112 Chestnut St^^Anytown^CA^90210||(555)123-4567|||M||123-45-6789
+PV1|1|O|Clinic MMMM^Room 307||| ||D23456^Foster^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250731110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104143100||SIU^S12|MSG092|P|2.3
+SCH||100092||||Follow-up Consultation||||^ ^30^20250801150000^20250801153000||||||| ||||| |||||Scheduled
+PID|1||P10092||Russell^Lara||19880425|F|||223 Walnut St^^Anytown^CA^90210||(555)234-5678|||F||234-56-7890
+PV1|1|O|Clinic NNNN^Room 419||| ||D34567^Gonzales^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250801150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104143200||SIU^S12|MSG093|P|2.3
+SCH||100093||||Cardiology Consultation||||^ ^45^20250802100000^20250802104500||||||| ||||| |||||Scheduled
+PID|1||P10093||Griffin^Mike||19640517|M|||334 Pine St^^Anytown^CA^90210||(555)345-6789|||M||345-67-8901
+PV1|1|O|Clinic OOOO^Room 311||| ||D45678^Bryant^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250802100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104143300||SIU^S12|MSG094|P|2.3
+SCH||100094||||Dermatology Consultation||||^ ^60^20250803140000^20250803150000||||||| ||||| |||||Scheduled
+PID|1||P10094||Diaz^Nancy||19950908|F|||445 Oak St^^Anytown^CA^90210||(555)456-7890|||F||456-78-9012
+PV1|1|O|Clinic PPPP^Room 423||| ||D56789^Alexander^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250803140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104143400||SIU^S12|MSG095|P|2.3
+SCH||100095||||Orthopedic Consultation||||^ ^30^20250804110000^20250804113000||||||| ||||| |||||Scheduled
+PID|1||P10095||Hayes^Oliver||19761029|M|||556 Elm St^^Anytown^CA^90210||(555)567-8901|||M||567-89-0123
+PV1|1|O|Clinic QQQQ^Room 315||| ||D67890^Russell^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250804110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104143500||SIU^S12|MSG096|P|2.3
+SCH||100096||||Neurology Consultation||||^ ^45^20250805150000^20250805154500||||||| ||||| |||||Scheduled
+PID|1||P10096||Myers^Paula||19881121|F|||667 Maple St^^Anytown^CA^90210||(555)678-9012|||F||678-90-1234
+PV1|1|O|Clinic RRRR^Room 427||| ||D78901^Griffin^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250805150000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104143600||SIU^S12|MSG097|P|2.3
+SCH||100097||||Psychiatry Consultation||||^ ^60^20250806100000^20250806110000||||||| ||||| |||||Scheduled
+PID|1||P10097||Ford^Quincy||19630612|M|||778 Cedar St^^Anytown^CA^90210||(555)789-0123|||M||789-01-2345
+PV1|1|O|Clinic SSSS^Room 319||| ||D89012^Diaz^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250806100000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104143700||SIU^S12|MSG098|P|2.3
+SCH||100098||||Ophthalmology Consultation||||^ ^30^20250807140000^20250807143000||||||| ||||| |||||Scheduled
+PID|1||P10098||Hamilton^Rachel||19940604|F|||889 Birch St^^Anytown^CA^90210||(555)890-1234|||F||890-12-3456
+PV1|1|O|Clinic TTTT^Room 431||| ||D90123^Hayes^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250807140000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104143800||SIU^S12|MSG099|P|2.3
+SCH||100099||||ENT Consultation||||^ ^45^20250808110000^20250808114500||||||| ||||| |||||Scheduled
+PID|1||P10099||Graham^Steven||19750126|M|||990 Spruce St^^Anytown^CA^90210||(555)901-2345|||M||901-23-4567
+PV1|1|O|Clinic UUUU^Room 323||| ||D01234^Myers^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250808110000
+
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|20260104143900||SIU^S12|MSG100|P|2.3
+SCH||100100||||Urology Consultation||||^ ^60^20250809150000^20250809160000||||||| ||||| |||||Scheduled
+PID|1||P10100||Sullivan^Tina||19880717|F|||101 Willow St^^Anytown^CA^90210||(555)012-3456|||F||012-34-5678
+PV1|1|O|Clinic VVVV^Room 435||| ||D12345^Ford^Dr.||||||||||||||||||| ||||||||||||||||||||||||20250809150000
